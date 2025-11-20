@@ -23,4 +23,3 @@ Includes firmware, Proteus simulation, hardware schematic, and project documenta
 - **Actuator:** Relay + 12V DC Pump  
 - **Design:** Schematic, PCB, Proteus simulation
 
-- 
