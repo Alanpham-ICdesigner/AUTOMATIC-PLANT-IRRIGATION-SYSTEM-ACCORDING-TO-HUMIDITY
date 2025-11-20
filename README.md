@@ -1,7 +1,7 @@
 # 🌱 STM32 Automatic Plant Irrigation System
 
 A compact automatic irrigation system using **STM32F103C8T6**, **soil moisture sensor**, **RTC DS1307**, **LCD 1602 (I2C)**, and **relay-controlled 12V pump**.  
-Includes firmware, Proteus simulation, hardware schematic, and project documentation.
+Includes firmware Keil C, Proteus simulation, hardware schematic, and project documentation.
 
 ---
 
