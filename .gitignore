@@ -1,0 +1,16 @@
+# Keil
+Listings/
+Objects/
+*.axf
+*.elf
+*.hex
+*.uvguix
+*.uvoptx
+
+# Proteus backup
+*.~dsn
+*.~pdsprj
+
+# OS junk
+.DS_Store
+Thumbs.db
